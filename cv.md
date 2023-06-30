@@ -45,11 +45,7 @@ MASTER’S DEGREE IN COMPUTER-INTEGRATED TECHNOLOGIES, NATIONAL AVIATION UNIVERS
 <ul>
   <li>English - Pre-intermediate</li>
 </ul>
-	
-<h3>HOBBIES</h3>
-<ul>
-  <li>Photography, travelling, fitness</li>
-</ul>
+
 		
 
 		
