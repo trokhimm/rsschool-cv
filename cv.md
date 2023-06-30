@@ -4,10 +4,10 @@
 							
 <h3>CONTACTS</h3>
 	
-<b>Tel.: </b>+447493912829</br>
-<b>Email: </b>trokhim.m@gmail.com</br>	
-<b>Address: </b>York, United Kingdom	</br>
-<b>GitHub: <a href="https://github.com/trokhimm" target="_blank">trokhimm</a></b>
+<p><b>Tel.:</b> +447493912829</p>
+<p><b>Email:</b> trokhim.m@gmail.com</p>
+<p><b>Address:</b> York, United Kingdom</p>
+<p><b>GitHub:</b> <a href="https://github.com/trokhimm" target="_blank">trokhimm</a></p>
 
 
 <h3>About Me</h3>
@@ -27,11 +27,11 @@ My aim is get knowledge in the field of front-end development and learn how to c
 
 <h3>Code example:</h3>
 
-<code>function getStringLength(input) {<br/>
-   console.log(input.length);<br/>
-   return input.length;<br/>
-}<br/>
-getStringLength ('hello');<br/></code>
+<code>function getStringLength(input) {
+   console.log(input.length);
+   return input.length;
+}
+getStringLength ('hello');</code>
 
 
 <h3>WORK EXPERIENCE</h3>
